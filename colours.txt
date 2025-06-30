@@ -2,7 +2,6 @@ blue
 red
 green
 pink
-yellow
 orange
 purple
-
+brown
